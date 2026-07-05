@@ -1,0 +1,15 @@
+today i learned how commits work
+and also that bash is so much more useful
+lol
+
+erm 
+
+things to know :
+(as in write this entire sequence lmfao)
+
+
+git status
+git add .
+git commit -m "whatever i wanna log"
+git log
+git push -u origin main
